@@ -1,3 +1,3 @@
 # MyProject
  Индивидуальный проект по теме: Буст аккаунтов в кс го
-![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
+![Логотип](desert-eagle-ocean-drive_2.avif "Логотип Desert Eagle ")
